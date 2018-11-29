@@ -1,5 +1,9 @@
 # Study Log
 
+## 2018-11-29
+- searched differentiable ray tracing
+- did not take notes during study.
+
 ### 2018-11-27
 - handed in Robot Vision project 2
 
