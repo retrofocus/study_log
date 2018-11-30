@@ -1,5 +1,9 @@
 # Study Log
 
+## 2018-11-30
+- Searched TMD(Transmissive Mirror Device)
+- it is used in near-eye display in Digital Nature lab.
+
 ## 2018-11-29
 - searched differentiable ray tracing
 - did not take notes during study.
